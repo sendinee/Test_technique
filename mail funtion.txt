@@ -1,0 +1,11 @@
+[mail]
+
+; Pour Win32 seulement.
+; http://php.net/smtp
+; SMTP = localhost
+; http://php.net/smtp-port
+; smtp_port = 25
+
+; Pour Win32 seulement.
+; http://php.net/sendmail-from
+;sendmail_from = you@yourdomain
