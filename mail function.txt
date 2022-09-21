@@ -1,0 +1,16 @@
+
+[mail]
+; XAMPP
+; SMTP = localhost
+; smtp_port = 25
+
+; SMTP = smtp.gmail.com
+; smtp_server=smtp.gmail.com
+; smtp_port=587
+; smtp_ssl=auto
+; default_domain=gmail.com
+; error_logfile=php_error_log
+; auth_username=gestionstagiaire2018@gmail.com
+; auth_password=Gest1on2018
+; force_sender=gestionstagiaire2018@gmail.com
+; sendmail_from = gestionstagiaire2018@gmail.com
